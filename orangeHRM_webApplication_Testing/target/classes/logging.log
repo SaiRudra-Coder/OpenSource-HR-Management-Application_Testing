@@ -1,0 +1,26 @@
+2023-05-03 19:10:29 INFO  Login_page:driver_Setup:64 - Driver successfully Initiated.......
+2023-05-03 19:10:37 INFO  Login_page:loginCredentials_extract:118 - Login Credentials Username and Password is : [Admin, admin123]
+2023-05-03 19:10:38 INFO  Login_page:sendKeys:136 - Successfully Entered Username
+2023-05-03 19:10:38 INFO  Login_page:sendKeys:136 - Successfully Entered Password
+2023-05-03 19:10:38 INFO  Login_page:buttonsClick:155 - Successfully Clicked on Login Button
+2023-05-03 19:10:40 INFO  Login_page:newPageValidation:225 - successfully verified after click on Login it displayed user related details
+2023-05-03 19:10:40 INFO  Login_page:loginPage_orangeHRM:109 - Test Case 1 : loginPage_orangeHRM is Successfully Passed
+2023-05-03 19:10:41 INFO  Login_page:mouseActionClick:175 - Successfully clicked on PIM option
+2023-05-03 19:10:42 INFO  Login_page:validation_reusedMethod:33 - Successfully verified After Click on PIM option. It displayed the PIM related information page 
+2023-05-03 19:10:45 INFO  Login_page:mouseActionClick:175 - Successfully clicked on ADD Employee option
+2023-05-03 19:10:46 INFO  Login_page:validation_reusedMethod:33 - Successfully verified After Click on Add Employee option. It displayed the Add Employee related information page 
+2023-05-03 19:10:48 INFO  Login_page:sendKeys:136 - Successfully Entered First Name
+2023-05-03 19:10:48 INFO  Login_page:sendKeys:136 - Successfully Entered Middle Name
+2023-05-03 19:10:48 INFO  Login_page:sendKeys:136 - Successfully Entered Last Name
+2023-05-03 19:10:49 INFO  Login_page:mouseActionClick:175 - Successfully clicked on Create Login Details Switch option
+2023-05-03 19:10:52 INFO  Login_page:newPageValidation:225 - successfully verified after click on Create login details switch it displayed user related details
+2023-05-03 19:10:52 INFO  Login_page:sendKeys:136 - Successfully Entered Username
+2023-05-03 19:10:52 INFO  Login_page:sendKeys:136 - Successfully Entered Password
+2023-05-03 19:10:52 INFO  Login_page:newPageValidation:225 - successfully verified after click on  it displayed user related details
+2023-05-03 19:10:52 INFO  Login_page:passwordValidation:105 - Successfully it displayed Strongest password. If user Enter right one
+2023-05-03 19:10:52 INFO  Login_page:sendKeys:136 - Successfully Entered confirm password1
+2023-05-03 19:10:52 INFO  Login_page:confirmPassword:139 - Successfully validate before password and confirm password both are same
+2023-05-03 19:10:55 INFO  Login_page:pim_AddEmployee:172 - Scrolling sucess
+2023-05-03 19:10:56 INFO  Login_page:buttonsClick:155 - Successfully Clicked on Save Button
+2023-05-03 19:11:59 ERROR Login_page:getSingleElement:65 - The command did not execute or complete within wait time
+2023-05-03 19:11:59 ERROR Login_page:pim_AddEmployee:184 - -----------
